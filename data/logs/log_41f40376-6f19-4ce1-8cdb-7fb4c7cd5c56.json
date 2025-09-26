@@ -1,0 +1,22 @@
+{
+    "job_id": "41f40376-6f19-4ce1-8cdb-7fb4c7cd5c56",
+    "config": {
+        "path": "/models/predict/1",
+        "method": "POST"
+    },
+    "start_time": "2025-09-26 00:34:39",
+    "events": [
+        {
+            "timestamp": "2025-09-26 00:34:39",
+            "message": "Prediction",
+            "result": [
+                "tiguan_l-allspace_2022"
+            ]
+        }
+    ],
+    "end_time": "2025-09-26 00:34:39",
+    "duration_seconds": 0.05,
+    "metrics": {
+        "duration": 0.047754764556884766
+    }
+}

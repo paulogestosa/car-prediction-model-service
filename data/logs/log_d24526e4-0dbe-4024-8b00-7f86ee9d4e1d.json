@@ -1,0 +1,22 @@
+{
+    "job_id": "d24526e4-0dbe-4024-8b00-7f86ee9d4e1d",
+    "config": {
+        "path": "/models/predict/1",
+        "method": "POST"
+    },
+    "start_time": "2025-09-26 00:25:33",
+    "events": [
+        {
+            "timestamp": "2025-09-26 00:25:33",
+            "message": "Prediction",
+            "result": [
+                "golf_r32-mk4_2002"
+            ]
+        }
+    ],
+    "end_time": "2025-09-26 00:25:33",
+    "duration_seconds": 0.07,
+    "metrics": {
+        "duration": 0.0681142807006836
+    }
+}

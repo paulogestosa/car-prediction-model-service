@@ -1,0 +1,22 @@
+{
+    "job_id": "5f687135-ba6f-44bb-ab63-7aa0aedbbc4f",
+    "config": {
+        "path": "/models/predict/1",
+        "method": "POST"
+    },
+    "start_time": "2025-09-26 00:33:37",
+    "events": [
+        {
+            "timestamp": "2025-09-26 00:33:37",
+            "message": "Prediction",
+            "result": [
+                "fiesta_zetec-s_2009"
+            ]
+        }
+    ],
+    "end_time": "2025-09-26 00:33:37",
+    "duration_seconds": 0.08,
+    "metrics": {
+        "duration": 0.0796210765838623
+    }
+}

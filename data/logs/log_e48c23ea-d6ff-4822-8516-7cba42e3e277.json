@@ -1,0 +1,22 @@
+{
+    "job_id": "e48c23ea-d6ff-4822-8516-7cba42e3e277",
+    "config": {
+        "path": "/models/predict/1",
+        "method": "POST"
+    },
+    "start_time": "2025-09-26 00:32:33",
+    "events": [
+        {
+            "timestamp": "2025-09-26 00:32:33",
+            "message": "Prediction",
+            "result": [
+                "corolla_2020"
+            ]
+        }
+    ],
+    "end_time": "2025-09-26 00:32:33",
+    "duration_seconds": 0.04,
+    "metrics": {
+        "duration": 0.04106950759887695
+    }
+}

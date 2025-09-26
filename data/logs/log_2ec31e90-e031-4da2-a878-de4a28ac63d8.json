@@ -1,0 +1,20 @@
+{
+    "job_id": "2ec31e90-e031-4da2-a878-de4a28ac63d8",
+    "config": {
+        "path": "/models/predict/1",
+        "method": "POST"
+    },
+    "start_time": "2025-09-26 00:33:30",
+    "events": [
+        {
+            "timestamp": "2025-09-26 00:33:30",
+            "message": "Prediction Error",
+            "error": "cannot identify image file <_io.BytesIO object at 0x000002CD43A76160>"
+        }
+    ],
+    "end_time": "2025-09-26 00:33:30",
+    "duration_seconds": 0.01,
+    "metrics": {
+        "duration": 0.011354446411132812
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "job_id": "cd966184-2cf1-4ea1-830f-27cda14dc38f",
+    "config": {
+        "path": "/models/predict/1",
+        "method": "POST"
+    },
+    "start_time": "2025-09-26 00:30:04",
+    "events": [
+        {
+            "timestamp": "2025-09-26 00:30:04",
+            "message": "Prediction",
+            "result": [
+                "fiesta_st_2014"
+            ]
+        }
+    ],
+    "end_time": "2025-09-26 00:30:04",
+    "duration_seconds": 0.05,
+    "metrics": {
+        "duration": 0.0461428165435791
+    }
+}
